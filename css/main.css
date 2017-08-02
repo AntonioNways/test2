@@ -1,0 +1,76 @@
+  .Nav_Ant{
+  font-size: 50px;
+  color: #e2e2e2;
+  font-family: 'Qwigley', cursive;
+  margin-bottom: 5px;
+  margin-left: 50px;
+  }
+  a.Nav_Ant:hover{color:#e2e2e2;}
+  a.Nav_Ant:link{color:#e2e2e2;}
+  a.Nav_Ant:active{color:white;}
+  a.Nav_Ant:visited{color:#e2e2e2;}
+
+  .nav_top_margin{
+    margin-top: 18px;
+  }
+  .nav_pad{
+    margin-top: 50px;
+    z-index: 0;
+    position: absolute;
+  }
+
+.nav_top_margin1{
+  margin-top: 10px;
+  }
+
+.aboutpic{
+  max-height: 230px;
+  max-width: 230px;
+}
+.port_pic{
+  max-height: 300px;
+}
+body{
+  background-color: silver;
+}
+.profileSize{
+    padding-top: 18px;
+    height: 280px;
+}
+.profilebg{
+    background-color: #8894e2;
+    min-height: 325px;
+    border-bottom: 2px solid grey;
+    border-right: 2px solid grey;
+    border-left: 2px solid grey;
+}
+.portfoliobg{
+    background-color: white;
+    border-bottom: 2px solid grey;
+    border-right: 2px solid grey;
+    border-left: 2px solid grey;
+}
+
+.PortfolioSize{
+    padding-top: 10px;
+    height: 300px;
+}
+.icon_size{
+  height: 30px;
+  width: 30px;
+}
+.Contactbg{
+  background-color: #000000;
+  color: white;
+}
+.temppopover{
+  display: none;
+}
+.temppopover:target{
+  display: block;
+  background-color: red;
+}
+
+.NavStyle{
+  text-decoration:none;
+}

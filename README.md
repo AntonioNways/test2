@@ -1,0 +1,1 @@
+This GitHub is used to set up my porfolio domain. If you would like to know more on how to set up React with GitHub Pages, please refer to Rafrex's website (https://github.com/rafrex/spa-github-pages)
